@@ -3,7 +3,7 @@
 
 A processor for [API](https://github.com/gplcart/api) module. Essentially it translates HTTP requests into CLI commands and allows to execute CRUD commands provided by different CLI providers.
 
-Every request must be constructed as such: `/api/cli-command-name`
+Every request URL must be constructed as such: `/api/cli-command-name`
 
 Command options can be passed in the query string, POST body or both. Arguments from POST body will override arguments from GET query.
 
