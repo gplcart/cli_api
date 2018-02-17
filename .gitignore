@@ -1,0 +1,4 @@
+.idea
+nbproject
+*sublime*
+.git

@@ -1,0 +1,21 @@
+{
+  "name": "gplcart/cli_api",
+  "type": "gplcart-module",
+  "description": "CLI processor for web API",
+  "keywords": [
+    "gplcart",
+    "ecommerce",
+    "shopping cart",
+    "gplcart module",
+    "php",
+    "cli",
+    "web api",
+    "api"
+  ],
+  "license": "GPL-3.0-or-later",
+  "require": {
+    "gplcart/composer-module-installer": "*"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
